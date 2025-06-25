@@ -105,8 +105,7 @@ sudo apt-get upgrade
 查看完整日志: /var/log/source_change_20230625.log
 ```
 
-    return best_mirror
-```
+
 
 ### 系统支持矩阵
 
