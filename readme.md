@@ -38,20 +38,7 @@ graph TD
 | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Rolling-1793D1?style=flat-square&logo=arch-linux) | Rolling                                        | ✅ 完全支持   |
 | ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-5.0+-B7E085?style=flat-square)                      | 5.x                                            | ✅ 完全支持   |
 
-## 安装使用
 
-### 快速开始
-
-```bash
-# 下载脚本
-curl -O https://raw.githubusercontent.com/yourusername/linux-mirror-changer/main/change-source.sh
-
-# 授予执行权限
-chmod +x change-source.sh
-
-# 运行脚本
-sudo ./change-source.sh
-```
 
 ### 完整使用流程
 
